@@ -1,11 +1,11 @@
-package creative.state;
+package functional.state;
 
 /**
  * Created by Krzysztof Adamczyk on 06.07.2017.
  */
-public class CarDamaged implements CarState {
+public class CarAvailable implements CarState {
     @Override
     public void reportState(Car car) {
-        System.out.println("Car damaged");
+        System.out.println("Car works");
     }
 }

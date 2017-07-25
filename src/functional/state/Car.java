@@ -1,4 +1,4 @@
-package creative.state;
+package functional.state;
 
 /**
  * Created by Krzysztof Adamczyk on 05.07.2017.
