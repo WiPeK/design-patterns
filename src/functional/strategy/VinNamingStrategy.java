@@ -1,4 +1,4 @@
-package creative.strategy;
+package functional.strategy;
 
 /**
  * Created by Krzysztof Adamczyk on 12.07.2017.

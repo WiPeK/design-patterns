@@ -1,11 +1,11 @@
-package creative.strategy;
+package functional.strategy;
 
 /**
  * Created by Krzysztof Adamczyk on 12.07.2017.
  */
 public class MotorVinNamingStrategy implements VinNamingStrategy {
 
-    String PREFIX = "M_";
+    private String PREFIX = "M_";
 
     @Override
     public String addPrefix(String string) {
